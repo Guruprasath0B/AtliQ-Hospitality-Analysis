@@ -1,6 +1,5 @@
 # AtliQ Hospitality Analysis
 
-Welcome to the AtliQ Hospitality Analysis project! This repository showcases an in-depth analysis of AtliQ Grands, a prominent company in the hospitality industry. The primary aim is to harness the power of data to drive business insights, improve market share, and boost revenue.
 
 ## Project Overview
 
